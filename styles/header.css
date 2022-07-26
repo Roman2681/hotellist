@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+.header{
+   width: 100%;
+    position: fixed;
+}
+.header__inner{
+    width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    width: auto;
+    border: 1px transparent solid;
+} 
+.nav{
+    margin: 0 20px;
+    display: flex;
+    align-items: center;
+}
+.button{
+    font-size: 15px;
+    margin: 0 0 0 20px;
+    padding: 10px;
+}
+.button__blue{
+    background-color:blue ;
+}
+
+.button__purple{
+    background-color:purple ;
+}
+.nav__link{
+    font-size: 15px;
+    margin: 15px;
+}

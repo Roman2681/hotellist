@@ -1,0 +1,39 @@
+
+.hero{
+    background-image: url("../images/Object.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px 0;
+    }
+.hero__inner{
+    max-width: 680px;
+    margin: 0 auto;
+    text-align: center;
+}
+.hero__city{
+    font-family: 'Boston';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 80px;
+    text-align: center;
+    color: #FFFFFF;;
+}
+.hero__title{
+    font-family: 'Boston';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 80px;
+    color: #FFFFFF;
+}
+.hero__discription{
+    font-family: 'Boston';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 30px;
+    color: #FFFFFF;
+
+}
